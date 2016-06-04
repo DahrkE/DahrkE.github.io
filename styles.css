@@ -1,0 +1,43 @@
+html,body{height:100%}
+
+html {
+
+}
+
+body {
+	background-color:			;
+	background-image:			url("images/bg.png");
+	background-size:			cover;
+	background-position: 		center;
+	background-repeat:			no-repeat;
+	background-attachment: 		local; 
+}
+
+div{
+    width: 						960px;
+    height: 					100px;
+}
+
+@font-face {
+	font-family: 				"PT Sans Serif";
+	src: 						url("fonts/PTN57F.ttf"); format("truetype");
+}
+
+h1{
+	font-family:				'PT Sans Serif', Times New Roman;
+	color:						#e1bf65;
+}
+
+h2{
+    font-family:				'PT Sans Serif', Times New Roman;
+	color:						white;
+}
+
+p {
+    font-family:				'PT Sans Serif', Palatino Linotype;
+	color:						white;
+}
+
+
+
+
